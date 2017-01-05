@@ -11,11 +11,17 @@ You can select a product count per package or per unit contained in the package.
 
 ### Installation
 ***1.*** Upload *panda-free-shipping/* folder to the */wp-content/plugins/* directory
+
 ***2.*** Activate the plugin through the 'Plugins' menu in WordPress
+
 ***3.*** Go to menu *Woocommerce > Settings* and forward to *Shipping* tab
+
 ***4.*** Include your own shipping zone
+
 ***5.*** Add the method Panda Free Shipping
+
 ***6.*** Click on method for settings
+
 
 
 ### ChangeLOg
