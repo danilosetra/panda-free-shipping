@@ -7,7 +7,7 @@ Author: Danilo Setra
 Version: 0.0.3
 */
 
-// If this file is called directly, abort.
+// If this file is called directly, abort.  ok.
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 
